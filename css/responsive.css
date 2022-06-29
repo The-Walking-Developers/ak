@@ -1,0 +1,50 @@
+@media only screen and (max-width: 767px) {
+	body {
+		height:100%;
+	}
+	.heading {
+		font-size:32px;
+		margin-bottom: 85px;
+	}
+	
+	.schoolBranchCntr {
+		width:auto;
+		margin: -55px 20px;
+	}
+	
+	.schoolslide li {
+		width:100%;
+	} 
+	
+	.schoolBranch {
+		width:100%;
+	}
+	
+	.schoolBranchCntr h6 {
+		width:100%;
+	}
+	
+	.schoolBranchCntr .content {
+		width:100%;
+	}
+	
+	.address-grid {
+		width: 100%;
+		margin: 0px 22px 15px;
+	}
+	.address-grid ul li a {
+		font-size:15px;
+	}
+	
+	.start-header .navbar-brand .logo {
+		width:70px;
+	}
+	
+	.start-header.scroll-on .navbar-brand .logo-1  {
+		width:70px;
+	}
+	
+	.schoolBranchCntr .content p {
+		font-size:13px;
+	}
+}
